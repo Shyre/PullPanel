@@ -1,0 +1,7 @@
+sdk/
+packager.json
+app.json
+.senchasdk
+resources/sass/.sass-cache/
+build/
+archive/
